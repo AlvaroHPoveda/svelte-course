@@ -16,7 +16,7 @@
     style:--background-color={bgColor}
     style:--buttonTextColor={textColor}
     class:size-lg={size === 'large'}
-    class:size-sm={size === 'smalle'}
+    class:size-sm={size === 'small'}
     class:has-left={$$slots.leftContent}
     class:shadow
     {...$$restProps}
