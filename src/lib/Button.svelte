@@ -4,9 +4,7 @@
     export let bgColor = 'inherit';
     export let textColor = 'inherit';
     export let disabled = false;
-
-    console.log($$restProps);
-
+    
     let isLefrHovered;
 </script>
 
